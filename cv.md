@@ -9,3 +9,11 @@
 ## **About me:**
 
 Currently I'm learning front-end technologies and hope to get enough knowledge to be hired for IT-company soon)
+
+## **Skills:**
+
+1. CSS
+2. HTML
+3. Git
+4. Figma
+5. Js
