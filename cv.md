@@ -25,3 +25,15 @@ function myFunction() {
   document.getElementById("demo").innerHTML = "Hello World!";
 }
 ```
+
+## **Education**
+
+**Courses:**
+ * Udemy
+ * HTML Academy
+ * FreeCodeCampe
+
+ **Languages:**
+ * Russia, Ucrainan (Native)
+ * English (B1+)
+ * Spanish (A2)
