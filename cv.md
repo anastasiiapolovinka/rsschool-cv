@@ -17,3 +17,11 @@ Currently I'm learning front-end technologies and hope to get enough knowledge t
 3. Git
 4. Figma
 5. Js
+
+## **Code example:**
+
+```
+function myFunction() {
+  document.getElementById("demo").innerHTML = "Hello World!";
+}
+```
